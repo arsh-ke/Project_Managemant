@@ -1,0 +1,28 @@
+{
+  "name": "project_managemant",
+  "version": "1.0.0",
+  "description": "Project Management For Beginners",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsh-ke/Project_Managemant.git"
+  },
+  "keywords": [
+    "Backend",
+    "Apis",
+    "Creation"
+  ],
+  "author": "Arsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsh-ke/Project_Managemant/issues"
+  },
+  "homepage": "https://github.com/arsh-ke/Project_Managemant#readme",
+  "devDependencies": {
+    "prettier": "3.7.3"
+  }
+}
