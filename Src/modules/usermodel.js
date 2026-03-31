@@ -32,5 +32,4 @@ isadmin : {
 // defining user schames collaction name 
 
  
-const User = new mongoose.model("User",userschema)
-export default User;
+export const User = new mongoose.model("User",userschema)
